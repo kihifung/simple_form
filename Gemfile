@@ -9,5 +9,5 @@ end
 
 gem 'country_select'
 gem 'activemodel'
-gem 'railties'
+gem 'railties', '>= 6.0.3.3'
 gem 'rake'
